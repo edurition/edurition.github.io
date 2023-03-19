@@ -1,1 +1,1 @@
-"# Edurition Landing Page" 
+# Edurition Landing Page
